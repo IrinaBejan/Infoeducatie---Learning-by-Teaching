@@ -34,7 +34,7 @@ CPU: Intel Core i3 @ 3.10 GHz (4 CPUs), ~3.10 GHz processor<br>
 GPU: nVidia GeForce GT520 <br>
 RAM: 4 GB<br>
 DIRECTX: 10/11/12<br>
-HDD SPACE:  minimum 4.5 GB<br>
+HDD SPACE:  minimum 2.5 GB<br>
 
 
 <strong>III. Tehnologii utilizate</strong>
